@@ -20,6 +20,34 @@
 ![Performance por vendedor](images/performance_receita.png)
 
 ---
+### 🔎 Insights
+
+✅ **David lidera em receita total**  
+- Maior faturamento entre todos os vendedores.
+- Maior volume de vendas, indicando alta produtividade comercial.
+
+✅ **Bob apresenta forte desempenho**  
+- Segunda maior receita.
+- Alto volume de vendas, mostrando consistência.
+
+✅ **Eve e Alice apresentam desempenho semelhante**  
+- Receita próxima entre ambos.
+- Potencial de crescimento com aumento de volume de vendas.
+
+⚠️ **Charlie apresenta menor receita**  
+- Menor volume de vendas.
+- Pode indicar necessidade de melhoria em performance ou estratégia comercial.
+
+---
+
+### 💡 Recomendações
+- Investigar estratégias utilizadas por David para replicação.
+- Avaliar oportunidades de treinamento para vendedores com menor desempenho.
+- Monitorar produtividade individual e conversão de vendas.
+
+
+### 🔎 Visão geral
+A receita mensal apresentou comportamento relativamente estável ao longo de 2023, com variações moderadas entre aproximadamente 370 mil e 470 mil por mês. O padrão indica consistência nas vendas, sem tendências claras de crescimento ou queda contínua no período.
 
 ## 📈 Comparação Receita vs Vendas
 
@@ -54,39 +82,11 @@
 - Identificar práticas de vendedores com maior eficiência.
 - Implementar métricas de performance combinando volume e valor de vendas.
 
+---
 
 ## 📈 Receita Mensal — Análise
 
 ![Receita Mensal](images/receita_mensal.png)
-
-### 🔎 Insights
-
-✅ **David lidera em receita total**  
-- Maior faturamento entre todos os vendedores.
-- Maior volume de vendas, indicando alta produtividade comercial.
-
-✅ **Bob apresenta forte desempenho**  
-- Segunda maior receita.
-- Alto volume de vendas, mostrando consistência.
-
-✅ **Eve e Alice apresentam desempenho semelhante**  
-- Receita próxima entre ambos.
-- Potencial de crescimento com aumento de volume de vendas.
-
-⚠️ **Charlie apresenta menor receita**  
-- Menor volume de vendas.
-- Pode indicar necessidade de melhoria em performance ou estratégia comercial.
-
----
-
-### 💡 Recomendações
-- Investigar estratégias utilizadas por David para replicação.
-- Avaliar oportunidades de treinamento para vendedores com menor desempenho.
-- Monitorar produtividade individual e conversão de vendas.
-
-
-### 🔎 Visão geral
-A receita mensal apresentou comportamento relativamente estável ao longo de 2023, com variações moderadas entre aproximadamente 370 mil e 470 mil por mês. O padrão indica consistência nas vendas, sem tendências claras de crescimento ou queda contínua no período.
 
 ---
 
